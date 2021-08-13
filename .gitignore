@@ -1,0 +1,10 @@
+RLSDK/
+plugins/
+build/
+
+Utils.cpp
+Utils.h
+*.rc
+resource.h
+update_version.ps1
+BakkesMod.props
