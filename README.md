@@ -15,3 +15,6 @@ But it is a general overview and nice thing to have since Rocket League removed 
 ### Disclaimer
 This is being provided as-is and there is no guarentee of any future updates for when the game updates or breaks things.
 This code also may not be the best, I do not work with C++ very often.
+
+### Screenshot
+![screenshot of counts](https://i.imgur.com/7Qj0xS8.png)
